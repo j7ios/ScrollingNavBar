@@ -1,12 +1,22 @@
 # ScrollingNavBar
 
-A custom UINavigationController. Compatible with Swift 2.0 or next. Compatible with Objective-C. Example:
+A custom UINavigationController. Compatible with Swift 2.0 or next. Compatible with Objective-C. 
 
-Swift:
-        let scrollNaVC = mainVC.navigationController as! ScrollingNavigationController
+## Usage
 
-Objective-C:
-    ScrollingNavigationController *scrollNaVC = (ScrollingNavigationController *)mainVC.navigationController;
+####Swift
+```swift
+
+let scrollNaVC = mainVC.navigationController as! ScrollingNavigationController
+
+```
+
+####Objective-C
+```objc
+    
+ScrollingNavigationController *scrollNaVC = (ScrollingNavigationController *)mainVC.navigationController;
+
+```
 
 ## Contributors
 
