@@ -20,7 +20,7 @@ ScrollingNavigationController *scrollNavVC = (ScrollingNavigationController *)ma
 
 ## Contributors
 
-Developed by me, Giacomo B. Email: j7_na@yahoo.it
+Developed by me, Giacomo B. Want to support the development of this repo? Buy me a coffee ☕️ via Paypal
 
 ## License
 
