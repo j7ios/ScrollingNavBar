@@ -7,14 +7,14 @@ A custom UINavigationController. Compatible with Swift 2.0 or next. Compatible w
 ####Swift
 ```swift
 
-let scrollNaVC = mainVC.navigationController as! ScrollingNavigationController
+let scrollNavVC = mainVC.navigationController as! ScrollingNavigationController
 
 ```
 
 ####Objective-C
 ```objc
     
-ScrollingNavigationController *scrollNaVC = (ScrollingNavigationController *)mainVC.navigationController;
+ScrollingNavigationController *scrollNavVC = (ScrollingNavigationController *)mainVC.navigationController;
 
 ```
 
