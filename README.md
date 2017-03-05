@@ -14,4 +14,4 @@ Developed by me, Giacomo B. Email: j7_na@yahoo.it
 
 ## License
 
-Open source.
+Open source GNU GPL.
